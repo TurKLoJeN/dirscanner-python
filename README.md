@@ -1,8 +1,8 @@
-# DirScanner 
+# Admin Panel Finder
 
-Simple basic level admin panel scanning program
+Simple program that crawls directory on target URL
 
-![Screenshot_1](https://user-images.githubusercontent.com/32311900/220093865-03161df1-887e-4232-8c32-877444f78317.png)
+![dirscanner](https://user-images.githubusercontent.com/32311900/220100596-ddc07732-e271-4878-bd40-1cae9d65fff4.png)
 
 ### Prerequisites
 
@@ -24,7 +24,7 @@ $ pip install termcolor
 
 ## Usage
 
-You just need to enter the url
+You just need to enter the url end choose list
 
 ```
 example: https://google.com
