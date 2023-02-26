@@ -1,4 +1,4 @@
-# Admin Panel Finder
+# Dir Scanner
 
 Simple program that crawls directory on target URL
 
